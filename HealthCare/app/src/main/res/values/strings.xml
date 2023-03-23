@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ℍ𝕖𝕒𝕝𝕥𝕙𝕚𝕗𝕪</string>
+    <string name="title_menu">Dash</string>
+    <string name="title_blog">Blog</string>
+    <string name="title_states">States</string>
+    <string name="title_profile">Profile</string>
+    <string name="date">Date: </string>
+    <string name="in_details"><a href="">In Details</a></string>
+    <string name="i_am_the_architect_of_my_life">I am the architect of my life.</string>
+
+</resources>
