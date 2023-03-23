@@ -63,7 +63,7 @@ class DashboardFragment : Fragment() {
             override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
                 super.onScrolled(recyclerView, dx, dy)
                 itemsScrolled += dy
-                if (itemsScrolled >= recyclerView.height * 1 && dy > 0) {
+                if (itemsScrolled >= recyclerView.height * 5 && dy > 0) {
                     _viewBinding?.dashQuote?.visibility = View.GONE
                     itemsScrolled = 0
                 }
