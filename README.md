@@ -6,7 +6,7 @@
 * Using clean MVVM Architecture.
 * API using for this project: https://www.healthcare.gov/api/glossary.json
 * Using Retrofit for API call and Room Database for localy data.
-* Using Flow for collect and emit data.
+* Using Coroutines, MVVM Architecture, Data Binding, Dependency Injection, HILT, and Flow for collect and emit data.
 * App Demo: https://drive.google.com/file/d/1Y5aREpSDehgCwEjgwjyPwckwsde0Ywhh/view
 
 # Room DB 
